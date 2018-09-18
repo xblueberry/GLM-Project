@@ -20,6 +20,4 @@ The data set (RoadKills.txt) is taken from a two-year study on vertebrate road k
 * P.EDGE Edges perimeter
 * L.SDI Landscape Shannon diversity index
 
-We start fitting a Poisson regression model in a frequentist manner by relating the count TOT.N to the predictors. After performing model selection, we check the adequacy and show a prediction plot. As overdispersion is found, we fit a negative binomial model and a quasi-Poisson model. 
-
-Finally, we redo the analysis in a Bayesian manner.
+We start fitting a Poisson regression model in a frequentist manner by relating the count TOT.N to the predictors. After performing model selection, we check the adequacy and show a prediction plot. As overdispersion is found, we fit a negative binomial model and a quasi-Poisson model. Finally, we redo the analysis in a Bayesian manner.
